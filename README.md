@@ -5,7 +5,7 @@
 * Bachelors of Science, Electrical Engineering | Tufts University
 
 ## Portfolio Projects
-###Clustering and Decision Trees for Exploratory Data Analysis
+### Clustering and Decision Trees for Exploratory Data Analysis
 [Repository Link]tbd)
 - detail 1
 - detail 2
