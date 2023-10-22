@@ -1,11 +1,15 @@
-# Data Scientist
+# Machine Learning & Data Science Portfolio
 
 ### Education
-Electrical Engineering, Masters of Science, Tufts University
-Electrical Engineering, Bachelors of Science, Tufts University
+* Masters of Science, Electrical Engineering | Tufts University
+* Bachelors of Science, Electrical Engineering | Tufts University
 
 ### Portfolio Projects
 Example1
 - detail 1
 - detail 2
+  
 ### Skills
+ - Python, MATLAB, SQL, C/C++, VBA
+ - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
+ - Machine Learning, Data Science, Github, Agile, Jira
