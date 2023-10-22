@@ -15,3 +15,5 @@
  - Python, MATLAB, SQL, C/C++, VBA
  - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
  - Machine Learning, Data Science, Github, Agile, Jira
+
+## Courses/Certifications
