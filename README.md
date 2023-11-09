@@ -11,7 +11,7 @@
 - Decision Trees can be used to interpet the KMeans Clustering output in order to understand how to data was separated and grouped
 - Matplotlib and Seaborn were used to visualize results to users
 
-![](https://github.com/stevensantos17/portfolio/blob/main/images/Clustering_Demo.png))
+![Project1_Image](/images/Clustering_Demo.png))
 
 ## Skills
  - Python, MATLAB, SQL, C/C++, VBA
