@@ -6,7 +6,7 @@
 
 ## Portfolio Projects
 ### Clustering and Decision Trees for Exploratory Data Analysis
-[Repository Link - TBD](tbd)
+[Repository Link](https://github.com/stevensantos17/Clustering_DecisionTrees_EDA)
 - Developed a process to use KMeans Clustering to perform Exploratory Data Analysis on a dataset in order to understand and group data
 - Decision Trees can be used to interpet the KMeans Clustering output in order to understand how to data was separated and grouped
 - Matplotlib and Seaborn were used to visualize results to users
