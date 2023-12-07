@@ -19,6 +19,13 @@
  - Machine Learning, Data Science, Github, Agile, Jira
 
 ## Courses/Certifications
-- Machine Learning in Python, Neural Networks and Deep Learning, Databases and SQL for
-Data Science with Python, TensorFlow for AI/ML, Digital Signal Processing, Digital Image
-Processing, Computer Engineering, Control Systems, Network Estimation, Data Structures
+- Machine Learning in Python
+- Neural Networks and Deep Learning
+- Databases and SQL for Data Science with Python
+- TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+- Digital Signal Processing
+- Digital Image Processing
+- Computer Engineering
+- Control Systems
+- Network Estimation
+- Data Structures
