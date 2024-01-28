@@ -16,7 +16,8 @@
 ## Skills
  - Python, MATLAB, SQL, C/C++, VBA
  - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
- - Machine Learning, Data Science, Github, Agile, Jira
+ - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization
+ - Machine Learning, Data Science, Github, Agile, Jira, Technical Leadership
 
 ## Courses/Certifications
 - Machine Learning in Python
