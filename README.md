@@ -13,6 +13,14 @@
 
 ![Project1_Image](/images/Clustering_Demo.png)
 
+### Diabetes Classification Project
+[Repository Link](https://github.com/stevensantos17/Diabetes_Classification_Project)
+- Project to create a Classification model to predict the onset of Diabetes based on diagnostic predictors
+- The goal & impact of this classifier is to assist staff in the medical care and diagnosis of patients.
+- Classification Models, Feature Engineering, and Data Analysis & Visualization were used
+
+![Project1_Image](/images/classification_project2.png)
+
 ## Skills
  - Python, MATLAB, SQL, C/C++, VBA
  - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
