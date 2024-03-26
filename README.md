@@ -24,9 +24,9 @@
 ![Project1_Image](/images/classification_project2.png)
 
 ## Skills
- - Python, MATLAB, SQL, C/C++, VBA
+ - Python, MATLAB, SQL, R, C/C++, VBA
  - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
- - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization
+ - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization, Data Analysis, Predictive Modelling
  - Machine Learning, Data Science, Github, Agile, Jira, Technical Leadership
 
 ## Courses/Certifications
