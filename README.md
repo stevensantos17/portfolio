@@ -5,6 +5,16 @@
 * Bachelors of Science, Electrical Engineering | Tufts University
 
 ## Portfolio Projects
+
+### Customer Churn Analysis & Predictive Modelling
+[Repository Link](https://github.com/stevensantos17/Clustering_DecisionTrees_EDA)
+- Analyze Data and Extract Insights on what characteristics led to customer churn and how the company can promote services and increase sales
+- Analyze Business impact of customer churn on company revenue
+- Train and Evaluate a predicitive model to determine which customers will churn in order to implement customer retention efforts and increase revenue
+- Topics: Data Vizualization, Classification Modelling, Statistical Analysis, Data Analysis, SHAP Analysis 
+
+![Project1_Image](/images/Clustering_Demo.png)
+
 ### Clustering and Decision Trees for Exploratory Data Analysis
 [Repository Link](https://github.com/stevensantos17/Clustering_DecisionTrees_EDA)
 - Developed a process to use KMeans Clustering to perform Exploratory Data Analysis on a dataset in order to understand and group data
@@ -26,14 +36,15 @@
 ## Skills
  - Python, MATLAB, SQL, R, C/C++, VBA
  - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
- - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization, Data Analysis, Predictive Modelling
- - Machine Learning, Data Science, Github, Agile, Jira, Technical Leadership
+ - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization, Data Analysis, Predictive Modelling, A/B Testing
+ - Machine Learning, Data Science, Github, Agile, Jira, Excel, Technical Leadership
 
 ## Courses/Certifications
 - Machine Learning in Python
 - Neural Networks and Deep Learning
 - Databases and SQL for Data Science with Python
 - TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+- R Programming for Data Science
 - Digital Signal Processing
 - Digital Image Processing
 - Computer Engineering
