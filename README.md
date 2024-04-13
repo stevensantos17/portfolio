@@ -6,7 +6,7 @@
 [Repository Link](https://github.com/stevensantos17/Customer_Churn_Project)
 - Analyzed Data and Extracted Insights on what characteristics led to customer churn and how the company can promote services and increase sales
 - Analyzed Business impact of customer churn on company revenue
-- Trained and Evaluated a predicitive model to determine which customers will churn in order to implement customer retention efforts and increase revenue
+- Trained and Evaluated a predictive model to determine which customers will churn in order to implement customer retention efforts and increase revenue
 - Topics: Data Visualization, Predictive Modelling, Statistical Analysis, Data Analysis
 
 ![Project1_Image](/images/churn_project_1.png)
