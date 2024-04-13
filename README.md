@@ -13,7 +13,7 @@
 - Train and Evaluate a predicitive model to determine which customers will churn in order to implement customer retention efforts and increase revenue
 - Topics: Data Vizualization, Classification Modelling, Statistical Analysis, Data Analysis, SHAP Analysis 
 
-![Project1_Image](/images/Clustering_Demo.png)
+![Project1_Image](/images/churn_project_1.png)
 
 ### Clustering and Decision Trees for Exploratory Data Analysis
 [Repository Link](https://github.com/stevensantos17/Clustering_DecisionTrees_EDA)
