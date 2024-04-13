@@ -1,8 +1,4 @@
-# Machine Learning & Data Science Portfolio
-
-## Education
-* Masters of Science, Electrical Engineering | Tufts University
-* Bachelors of Science, Electrical Engineering | Tufts University
+# Data Science & Machine Learning Portfolio
 
 ## Portfolio Projects
 
@@ -38,6 +34,10 @@
  - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
  - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization, Data Analysis, Predictive Modelling, A/B Testing
  - Machine Learning, Data Science, Github, Agile, Jira, Excel, Technical Leadership
+
+## Education
+* Masters of Science, Electrical Engineering | Tufts University
+* Bachelors of Science, Electrical Engineering | Tufts University
 
 ## Courses/Certifications
 - Machine Learning in Python
