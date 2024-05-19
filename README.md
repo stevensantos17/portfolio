@@ -34,7 +34,7 @@ My passion is to use my skillset to solve impactful problems by extract valuable
 ![Project1_Image](/images/classification_project2.png)
 
 ## Skills
- - Python, MATLAB, SQL, R, C/C++, VBA
+ - Python, SQL, R, MATLAB, C/C++, VBA
  - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
  - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization, Data Analysis, Predictive Modelling, A/B Testing
  - Machine Learning, Data Science, Github, Agile, Jira, Excel, Technical Leadership
