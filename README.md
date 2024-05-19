@@ -1,9 +1,8 @@
 # Data Science & Machine Learning Portfolio
-I am a Machine Learning/Data Science professional with 6+ years of experience. I have a successful track record of developing Machine Learning models and performing Data Analysis to solve complex problems. I also have extensive experience in leading technical projects and teams to accomplish their objectives. I have a Master's of Science in Electrical Engineering from Tufts University.
+I am a Data Science/Machine Learning professional with 6+ years of experience. I have a successful track record of developing Machine Learning models and performing Data Analysis to solve complex problems. I also have extensive experience in leading technical projects and teams to accomplish their objectives. I have a Master's of Science in Electrical Engineering from Tufts University.
 
-I have led the development of Automated ML & Data Analysis Pipelines that have resulted in major cost savings for my teams. I have utilized my expertise in Python, MATLAB, SQL, and other ML & Data Analysis techniques to gain insights on datasets and make a positive impact on my projects. 
+I have led the development of Automated ML & Data Analysis Pipelines that have resulted in major cost savings for my teams. I have utilized my expertise in Python, MATLAB, SQL, and other ML & Data Analysis techniques to gain insights on datasets and make a positive impact on my projects. My background in engineering allows me to effectively solve problems using a variety of ML & Data Science tools.
 
-My passion is to use my skillset to solve impactful problems by extract valuable insights from datasets and creating robust predictive models. My background in engineering allows me to effectively solve problems using a variety of ML & Data Science tools.
 ## Portfolio Projects
 
 ### Customer Churn Analysis & Predictive Modelling
