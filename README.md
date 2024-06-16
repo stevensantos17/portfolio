@@ -34,7 +34,7 @@ I have led the development of Automated ML & Data Analysis Pipelines that have r
 
 ## Skills
  - Python, SQL, R, MATLAB, C/C++, VBA
- - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio
+ - Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib, Tensorflow, Visual Studio, Apache Spark, Hadoop, PySpark, ETL, Clustering, Classification, Regression, Neural Networks
  - Statistical Analysis, Supervised & Unsupervised Learning, Data Visualization, Data Analysis, Predictive Modelling, A/B Testing
  - Machine Learning, Data Science, Github, Agile, Jira, Excel, Technical Leadership
 
@@ -48,6 +48,7 @@ I have led the development of Automated ML & Data Analysis Pipelines that have r
 - Databases and SQL for Data Science with Python
 - TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - R Programming for Data Science
+- Introduction to Big Data with Spark and Hadoop
 - Digital Signal Processing
 - Digital Image Processing
 - Computer Engineering
